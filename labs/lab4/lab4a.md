@@ -119,6 +119,17 @@ When professors teach a class to students in a classroom or lab and broadcast it
 4.2 Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
 - Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
 
+# Appendix A: Academic integrity procedure
+Information gathering and assessment
+
+|Action|Duration, unless extenuating circumstances arise|Responsibility|
+|---|---|---|
+1.Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program.|As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.|Faculty, invigilator, student, support staff
+2.Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally. As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.|Faculty, invigilator, support staff Note: If a student has witnessed or suspects an academic integrity violation has occurred, the student can inform the faculty/invigilator or support staff.|Every reasonable effort will be made to ensure the anonymity of a student reporting a potential breach.
+3.Collect and retain the in-person or online assessment (e.g., test/examination, lab report, essay, assignment, quiz, video or project) and any related evidence, at the discretion of the faculty/invigilator or support staff.|Within five days of the reported violation | Faculty, invigilator, support staff
+3.a) If it is concluded that no academic integrity offence has occurred, inform the student and no further action is required. | As soon as possible, within two Seneca business days. | Faculty
+3.b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process. | As soon as possible, within five Seneca business days. | Faculty
+
 # Related Seneca policies
 
 [Academic Appeals Policy](https://www.senecapolytechnic.ca/about/policies/academic-appeal-policy.html)
@@ -133,14 +144,3 @@ When professors teach a class to students in a classroom or lab and broadcast it
 [Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/academic-integrity-report.pdf)
 
 [Response to the Academic Integrity Report (PDF)](https://www.senecapolytechnic.ca/content/dam/projects/seneca/about/policies/response-to-the-academic-integrity-report.pdf)
-
-# Appendix A: Academic integrity procedure
-Information gathering and assessment
-
-|Action|Duration, unless extenuating circumstances arise|Responsibility|
-|---|---|---|
-1.Report the witnessing or suspicion that an academic integrity violation has occurred to the designate in your school/program.|As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.|Faculty, invigilator, student, support staff
-2.Inform the student of the witnessed or suspected academic integrity offence and discuss the situation with them informally. As soon as possible, within a reasonable timeframe to assess the violation, as determined by the chair.|Faculty, invigilator, support staff Note: If a student has witnessed or suspects an academic integrity violation has occurred, the student can inform the faculty/invigilator or support staff.|Every reasonable effort will be made to ensure the anonymity of a student reporting a potential breach.
-3.Collect and retain the in-person or online assessment (e.g., test/examination, lab report, essay, assignment, quiz, video or project) and any related evidence, at the discretion of the faculty/invigilator or support staff.|Within five days of the reported violation | Faculty, invigilator, support staff
-3.a) If it is concluded that no academic integrity offence has occurred, inform the student and no further action is required. | As soon as possible, within two Seneca business days. | Faculty
-3.b) If it is concluded that an academic integrity offence has occurred, inform the student and commence the formal process. | As soon as possible, within five Seneca business days. | Faculty
